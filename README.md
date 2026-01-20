@@ -5,7 +5,7 @@
 **Intern Name:** Hareesh  
 
 ---
-![Script Run](Screenshot 2026-01-20 160310.png)
+![Script Run](task-4-shell-scripting/Screenshot 2026-01-20 160310.png)
 
 
 ## 📌 Task Objective
