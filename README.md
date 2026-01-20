@@ -5,6 +5,7 @@
 **Intern Name:** Hareesh  
 
 ---
+![Script Run](screenshots/script-run.png)
 
 ## 📌 Task Objective
 The objective of this task is to understand and implement basic **Shell Scripting** concepts using **Bash** and automate simple DevOps tasks.
