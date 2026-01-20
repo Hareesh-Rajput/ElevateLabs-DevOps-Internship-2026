@@ -5,7 +5,7 @@
 **Intern Name:** Hareesh  
 
 ---
-![Script Run](task-4-shell-scripting/Screenshot.png)
+![Script Run](Screenshot.png)
 
 
 ## 📌 Task Objective
